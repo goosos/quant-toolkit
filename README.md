@@ -16,7 +16,7 @@ every line of your own research toolkit.
 |---|---|---|
 | `backtest.py` | [Part 1: VectorBT Tutorial](https://github.com/goosos/vectorbt-tutorial) | ✅ |
 | `validation.py` | [Part 2: Walk-Forward Analysis](https://github.com/goosos/walkforward-tutorial) | ✅ |
-| `data.py` | Part 3: Data Cleaning & Alignment | 🔲 |
+| `data.py` | [Part 3: Data Cleaning & Alignment](https://github.com/goosos/data-cleaning-tutorial) | ✅ |
 | `overfitting.py` | Part 4: PBO & Deflated Sharpe | 🔲 |
 | `metrics.py` | Part 5: Performance Metrics Deep Dive | 🔲 |
 | `costs.py` | Part 6: Slippage & Commissions | 🔲 |
