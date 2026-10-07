@@ -16,15 +16,14 @@ every line of your own research toolkit.
 |---|---|---|
 | `backtest.py` | [Part 1: VectorBT Tutorial](https://github.com/goosos/vectorbt-tutorial) | ✅ |
 | `validation.py` | [Part 2: Walk-Forward Analysis](https://github.com/goosos/walkforward-tutorial) | ✅ |
+| `data.py` | Part 3: Data Cleaning & Alignment | 🔲 |
 | `overfitting.py` | Part 4: PBO & Deflated Sharpe | 🔲 |
+| `metrics.py` | Part 5: Performance Metrics Deep Dive | 🔲 |
 | `costs.py` | Part 6: Slippage & Commissions | 🔲 |
-| `sizing.py` | Part 7: Kelly Criterion | 🔲 |
-| `data.py` | Part 9: Lookahead & Survivorship Bias | 🔲 |
-| `metrics.py` | Part 10: Sharpe vs Sortino | 🔲 |
+| `sizing.py` | Part 7: Position Sizing | 🔲 |
 
-Parts 3 (VectorBT vs Backtrader), 5 (Backtesting.py), and 8 (NautilusTrader)
-are engine comparisons — they don't add modules, they teach you when to
-swap the engine underneath `backtest.py`.
+Parts 8–10 are capstone tutorials (multi-strategy portfolios, parameter robustness,
+assembling the full system) — they integrate the modules rather than adding new ones.
 
 ## Design principles
 
