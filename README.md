@@ -15,7 +15,7 @@ every line of your own research toolkit.
 | Module | Tutorial | Status |
 |---|---|---|
 | `backtest.py` | [Part 1: VectorBT Tutorial](https://github.com/goosos/vectorbt-tutorial) | ✅ |
-| `validation.py` | Part 2: Walk-Forward Analysis | 🔲 |
+| `validation.py` | [Part 2: Walk-Forward Analysis](https://github.com/goosos/walkforward-tutorial) | ✅ |
 | `overfitting.py` | Part 4: PBO & Deflated Sharpe | 🔲 |
 | `costs.py` | Part 6: Slippage & Commissions | 🔲 |
 | `sizing.py` | Part 7: Kelly Criterion | 🔲 |
