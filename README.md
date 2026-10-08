@@ -20,7 +20,7 @@ every line of your own research toolkit.
 | `overfitting.py` | [Part 4: Backtest Overfitting](https://github.com/goosos/overfitting-tutorial) | ✅ |
 | `metrics.py` | [Part 5: Performance Metrics](https://github.com/goosos/metrics-tutorial) | ✅ |
 | `costs.py` | [Part 6: Slippage & Commissions](https://github.com/goosos/costs-tutorial) | ✅ |
-| `sizing.py` | Part 7: Position Sizing | 🔲 |
+| `sizing.py` | [Part 7: Position Sizing](https://github.com/goosos/sizing-tutorial) | ✅ |
 
 Parts 8–10 are capstone tutorials (multi-strategy portfolios, parameter robustness,
 assembling the full system) — they integrate the modules rather than adding new ones.
