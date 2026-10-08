@@ -22,8 +22,9 @@ every line of your own research toolkit.
 | `costs.py` | [Part 6: Slippage & Commissions](https://github.com/goosos/costs-tutorial) | ✅ |
 | `sizing.py` | [Part 7: Position Sizing](https://github.com/goosos/sizing-tutorial) | ✅ |
 
-Parts 8–10 are capstone tutorials (multi-strategy portfolios, parameter robustness,
-assembling the full system) — they integrate the modules rather than adding new ones.
+Parts 8 ([Multi-Strategy Portfolios](https://github.com/goosos/portfolio-tutorial)),
+9 (Parameter Robustness), and 10 (Assembling the Full System) are synthesis
+parts — they compose existing modules rather than adding new ones.
 
 ## Design principles
 
