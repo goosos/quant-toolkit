@@ -19,7 +19,7 @@ every line of your own research toolkit.
 | `data.py` | [Part 3: Data Cleaning & Alignment](https://github.com/goosos/data-cleaning-tutorial) | ✅ |
 | `overfitting.py` | [Part 4: Backtest Overfitting](https://github.com/goosos/overfitting-tutorial) | ✅ |
 | `metrics.py` | [Part 5: Performance Metrics](https://github.com/goosos/metrics-tutorial) | ✅ |
-| `costs.py` | Part 6: Slippage & Commissions | 🔲 |
+| `costs.py` | [Part 6: Slippage & Commissions](https://github.com/goosos/costs-tutorial) | ✅ |
 | `sizing.py` | Part 7: Position Sizing | 🔲 |
 
 Parts 8–10 are capstone tutorials (multi-strategy portfolios, parameter robustness,
