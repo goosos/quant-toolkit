@@ -23,8 +23,11 @@ every line of your own research toolkit.
 | `sizing.py` | [Part 7: Position Sizing](https://github.com/goosos/sizing-tutorial) | ✅ |
 
 Parts 8 ([Multi-Strategy Portfolios](https://github.com/goosos/portfolio-tutorial)),
-9 (Parameter Robustness), and 10 (Assembling the Full System) are synthesis
-parts — they compose existing modules rather than adding new ones.
+9 ([Parameter Robustness](https://github.com/goosos/robustness-tutorial)), and
+10 ([Assembling the Full System](https://github.com/goosos/full-system-tutorial))
+are synthesis parts — they compose existing modules rather than adding new ones.
+
+**Series complete: 10/10 parts published.** 🎉
 
 ## Design principles
 
